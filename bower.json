@@ -1,6 +1,6 @@
 {
   "name": "angular-line-breaks",
-  "version": "0.0.3",
+  "version": "0.0.4-northcloud",
   "dependencies": {
     "angular": "^1.2.4"
   },
